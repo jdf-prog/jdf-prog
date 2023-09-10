@@ -1,6 +1,6 @@
 ### Hi there 👋. It's Dongfu.
 
-- 🔭 I’m an incoming PhD. student at University of Waterloo, advised by Prof. Wenhu Chen. I was a a research intern as USC INK-LAB, focusing on NLP research.
+- 🔭 I’m current a CS Ph.D. student at University of Waterloo, advised by Prof. Wenhu Chen. I was a a research intern at USC INK-LAB, and CS undergraduate at Zhejiang Univeristy.
 - 🌱 My research interesets lies in Natural Language Processing, especially CommonSense Reasonning, Large Language Model&Evaluation, Text Generation. 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
