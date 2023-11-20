@@ -7,7 +7,6 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: dongfu.jdf@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I am big fun of Warriors Team! Hoping one day watch live game in the Chase Center!
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=jdf-prog)]()
