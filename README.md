@@ -1,6 +1,6 @@
 ### Hi there 👋. It's Dongfu (姜东甫).
 
-- 🔭 I’m a second-year CS Ph.D. student at the University of Waterloo, advised by Prof. Wenhu Chen.
+- 🔭 I’m a final-year CS Ph.D. student at the University of Waterloo, advised by Prof. Wenhu Chen.
 - I received my Bachelor's degree from Zhejiang University.
 - Previously interned at AI2.
 - 🌱 My research interests lie in Natural Language Processing, multimodality reasoning, and their evaluation. 
